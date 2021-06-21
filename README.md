@@ -1,11 +1,13 @@
-# Linux Basic Commands
+# Mind Map
+
+Linux Basic Commands
 [https://miro.com/app/board/o9J_l_PWS7Q=/](https://miro.com/app/board/o9J_l_PWS7Q=/)
 
-# Maven Commands
+Maven Commands
 [https://miro.com/app/board/o9J_l_PWS7Q=/](https://miro.com/app/board/o9J_l_PWS7Q=/)
 
-# Git Commands
+Git Commands
 [https://miro.com/app/board/o9J_l_PWS7Q=/](https://miro.com/app/board/o9J_l_PWS7Q=/)
 
-# Database Normalization
+Database Normalization
 [https://miro.com/app/board/o9J_l-Zsvjs=/](https://miro.com/app/board/o9J_l-Zsvjs=/)
