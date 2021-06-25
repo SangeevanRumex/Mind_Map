@@ -14,3 +14,6 @@ IntelliJ IDEA Shortcuts
 
 Database Normalization
 [https://miro.com/app/board/o9J_l-Zsvjs=/](https://miro.com/app/board/o9J_l-Zsvjs=/)
+
+Java Coding Standards
+[https://miro.com/app/board/o9J_l9JAobI=/](https://miro.com/app/board/o9J_l9JAobI=/)
